@@ -1,0 +1,20 @@
+{
+  "name": "c4-ui-demo-app-1",
+  "version": "1.0.0",
+  "description": "An initial demo app for Alex and I to work on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/photusenigma/c4-ui-demo-app-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/photusenigma/c4-ui-demo-app-1/issues"
+  },
+  "homepage": "https://github.com/photusenigma/c4-ui-demo-app-1#readme"
+}
