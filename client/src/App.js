@@ -5,7 +5,7 @@ import ApolloClient from "apollo-boost";
 import gql from "graphql-tag";
 
 const client = new ApolloClient({
-  uri: "simple api url"
+  uri: "https://api.graph.cool/simple/v1/cjjizqvx41qse0156gjl49285"
 });
 
 client
